@@ -1,6 +1,6 @@
 # Selfhood Before Heredity
 
-**Prebiotic Grounding of a Peptide Coacervate Organization, and Its Route to an Evolvable Quasi-Autogenic Organization**
+**From a Peptide QAG to the Percolating Layer L\***
 
 Alex Shoshitaishvili, Independent Researcher
 
