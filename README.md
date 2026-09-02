@@ -4,7 +4,10 @@
 
 Alex Shoshitaishvili, Independent Researcher
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22261524.svg)](https://doi.org/10.5281/zenodo.22261524)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22262347.svg)](https://doi.org/10.5281/zenodo.22262347)
+
+(This is v1.0.1, with corrected title, abstract, and Introduction. The original v1.0.0
+record remains citable at [10.5281/zenodo.22261524](https://doi.org/10.5281/zenodo.22261524).)
 
 ## Summary
 
@@ -40,7 +43,7 @@ citations are set as plain numbered references in the text, matching the referen
 
 ## Citing this work
 
-See [`CITATION.cff`](CITATION.cff), or cite via the Zenodo DOI: [10.5281/zenodo.22261524](https://doi.org/10.5281/zenodo.22261524).
+See [`CITATION.cff`](CITATION.cff), or cite via the Zenodo DOI: [10.5281/zenodo.22262347](https://doi.org/10.5281/zenodo.22262347).
 
 ## License
 

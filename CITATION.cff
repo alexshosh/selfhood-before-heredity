@@ -11,9 +11,9 @@ type: article
 repository-code: "https://github.com/alexshosh/selfhood-before-heredity"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.22261524"
+    value: "10.5281/zenodo.22262347"
     description: "Zenodo archive of this release"
-doi: "10.5281/zenodo.22261524"
+doi: "10.5281/zenodo.22262347"
 keywords:
   - origin of life
   - prebiotic chemistry
