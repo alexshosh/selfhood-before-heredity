@@ -4,7 +4,7 @@
 
 Alex Shoshitaishvili, Independent Researcher
 
-[![DOI](https://zenodo.org/badge/DOI/PENDING.svg)](https://doi.org/PENDING)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22261524.svg)](https://doi.org/10.5281/zenodo.22261524)
 
 ## Summary
 
@@ -40,7 +40,7 @@ citations are set as plain numbered references in the text, matching the referen
 
 ## Citing this work
 
-See [`CITATION.cff`](CITATION.cff), or cite via the Zenodo DOI above once minted.
+See [`CITATION.cff`](CITATION.cff), or cite via the Zenodo DOI: [10.5281/zenodo.22261524](https://doi.org/10.5281/zenodo.22261524).
 
 ## License
 

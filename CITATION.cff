@@ -9,6 +9,11 @@ date-released: 2026-09-02
 license: CC-BY-4.0
 type: article
 repository-code: "https://github.com/alexshosh/selfhood-before-heredity"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22261524"
+    description: "Zenodo archive of this release"
+doi: "10.5281/zenodo.22261524"
 keywords:
   - origin of life
   - prebiotic chemistry
