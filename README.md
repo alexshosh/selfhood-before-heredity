@@ -2,7 +2,7 @@
 
 **Prebiotic Grounding of a Peptide Coacervate Organization, and Its Route to an Evolvable Quasi-Autogenic Organization**
 
-Alex Shosh, Independent Researcher
+Alex Shoshitaishvili, Independent Researcher
 
 [![DOI](https://zenodo.org/badge/DOI/PENDING.svg)](https://doi.org/PENDING)
 
